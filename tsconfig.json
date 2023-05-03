@@ -2,13 +2,14 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es6",
+    "outDir": "output",
+    "baseUrl": ".",
     "sourceMap": true,
     "noImplicitAny": true,
     "removeComments": false,
     "moduleResolution": "node"
   },
   "exclude": [
-    "source",
     "node_modules",
     "dist"
   ]

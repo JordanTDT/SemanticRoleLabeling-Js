@@ -1,9 +1,9 @@
 {
   "name": "nlptoolkit-semanticrolelabeling",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
-  "types": "index.js",
+  "main": "output/index.js",
+  "types": "index.ts",
   "scripts": {
     "test": "Mocha"
   },
